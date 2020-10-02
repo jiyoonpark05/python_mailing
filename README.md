@@ -1,4 +1,4 @@
-# Learning Python 🚀 
+# Learning Python 🚀 (10.01 ~ ) 
 ## feature
 ### simple scraping
 - news scraping 
