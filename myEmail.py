@@ -6,8 +6,8 @@ from email import encoders
 
 
 # 보내는 사람 정보
-me = "jiyoonpark05@gmail.com"
-my_password = "ej1069ej"
+me = ""
+my_password = ""
 
 # 로그인하기
 s = smtplib.SMTP_SSL('smtp.gmail.com')
